@@ -1,0 +1,28 @@
+* { 
+    box-sizing: border-box; 
+    margin: 0px;
+}
+body {
+    background-image: url(bg.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+}
+.content {
+    max-width: 1000px;
+    margin: auto;
+}
+.description {
+    padding-top: 200px;
+    max-width: 50%;
+    float: left;
+}
+.product {
+    max-width: 50%;
+    float: right;
+}
+h1 {
+    padding-bottom: 20px;
+    font-size: 3rem;
+}
